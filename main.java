@@ -1,5 +1,5 @@
 class Simple{  
     public static void main(String args[]){  
-     System.out.println("rakshitha");  
+     System.out.println("sp");  
     }  
 }  
